@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashish8318
+- 👋 Hi, I’m Ashish kumar
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python Flask Django PHP
 - 📫 How to reach me ashishcoder123@gmail.com
