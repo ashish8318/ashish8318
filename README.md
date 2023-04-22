@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish kumar
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python Flask Django PHP
+- 🌱 I’m currently learning Python Flask Django React Material UI 
 - 📫 How to reach me ashishcoder123@gmail.com
 
 <!---
